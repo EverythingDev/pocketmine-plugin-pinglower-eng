@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/EverythingDev/pocketmine-plugin-pinglower-eng
+build-by-default: true
+branches:
+- main
+projects: [This Plugin Allow Lower Ping On Your Server this command for online pinglower /pinglower this automatically online when running your server]
+...
